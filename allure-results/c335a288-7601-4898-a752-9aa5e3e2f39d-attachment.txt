@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:21 ****** Verifying Homepage title ******
+[32mINFO    [0m root:test_login.py:26 ****** Homepage title test is passed ******

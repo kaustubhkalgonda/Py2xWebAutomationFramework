@@ -1,0 +1,2 @@
+INFO     root:test_login.py:16 ****** Verifying Homepage title ******
+INFO     root:test_login.py:21 ****** Homepage title test is passed ******

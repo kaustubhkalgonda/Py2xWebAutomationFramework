@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_login_ddt.py:39 ****** Verifying login test ******

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:16 ****** Verifying Homepage title ******
+[1m[31mERROR   [0m root:test_login.py:24 ****** Homepage title test is failed ******

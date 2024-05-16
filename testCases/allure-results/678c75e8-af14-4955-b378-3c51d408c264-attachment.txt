@@ -1,0 +1,2 @@
+INFO     utilities.customeLogger:test_login.py:16 ****** Verifying Homepage title ******
+ERROR    utilities.customeLogger:test_login.py:24 ****** Homepage title test is failed ******

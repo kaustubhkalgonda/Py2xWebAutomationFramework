@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:37 ****** Verifying login test ******
+[1m[31mERROR   [0m root:test_login.py:49 ****** Login test is failed ******
