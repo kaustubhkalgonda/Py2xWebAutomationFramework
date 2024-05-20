@@ -10,12 +10,14 @@ from utilities.readProperties import ReadConfig
 from utilities.customeLogger import LogGen
 from utilities.readDataFromExcel import ReadExcel
 
+
 class Test_Login_DDT:
     baseURL = ReadConfig.getApplicationURL()
     # username = ReadConfig.getUsername()
     # password = ReadConfig.getPassword()
     logger = LogGen.loggen()
     file_path = os.getcwd() + "/TestData/login_data.xlsx"
+
     @pytest.mark.parametrize("user_cred", ReadExcel.read_credentials_from_file(file_path=file_path))
     @allure.title("Verify Login functionality with data driven testing")
     @allure.testcase("TC003")

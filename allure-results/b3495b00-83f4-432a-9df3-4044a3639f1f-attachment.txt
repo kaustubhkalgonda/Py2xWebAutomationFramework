@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_addCustomer.py:36 ****** Verifying add customer test ******
+[32mINFO    [0m root:test_addCustomer.py:44 ****** Login successful******
