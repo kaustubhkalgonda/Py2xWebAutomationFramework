@@ -22,6 +22,7 @@ class Test_Login_DDT:
     @allure.title("Verify Login functionality with data driven testing")
     @allure.testcase("TC003")
     @allure.tag("Smoke")
+    @pytest.mark.regression
     def test_login_ddt(self, setup, user_cred):
         try:
             username = user_cred["username"]

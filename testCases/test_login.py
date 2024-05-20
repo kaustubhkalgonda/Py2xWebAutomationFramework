@@ -17,6 +17,7 @@ class Test_Login:
     @allure.title("Verify Homepage title")
     @allure.testcase("TC001")
     @allure.tag("Smoke")
+    @pytest.mark.regression
     def test_homePageTitle(self, setup):
         try:
             self.logger.info("****** Verifying Homepage title ******")
@@ -35,6 +36,8 @@ class Test_Login:
     @allure.title("Verify Login functionality")
     @allure.testcase("TC002")
     @allure.tag("Smoke")
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login(self, setup):
         try:
             self.logger.info("****** Verifying login test ******")

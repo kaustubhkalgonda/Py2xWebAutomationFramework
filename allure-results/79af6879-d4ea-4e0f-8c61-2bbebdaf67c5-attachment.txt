@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_addCustomer.py:39 ****** Verifying add customer test ******
+[32mINFO    [0m root:test_addCustomer.py:47 ****** Login successful******
+[32mINFO    [0m root:test_addCustomer.py:53 ****** navigating to customers list page ******
+[32mINFO    [0m root:test_addCustomer.py:58 ****** navigating to add customer page ******
+[32mINFO    [0m root:test_addCustomer.py:79 ****** customer added successfully. ******

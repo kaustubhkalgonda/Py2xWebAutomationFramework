@@ -32,6 +32,8 @@ class Test_AddCustomer:
     @allure.title("Verify Add Customer")
     @allure.testcase("TC003")
     @allure.tag("Smoke")
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_addCustomer(self, setup):
         try:
             self.logger.info("****** Verifying add customer test ******")

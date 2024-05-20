@@ -28,6 +28,7 @@ class Test_SearchCustomer:
     @allure.title("Verify Search Customer by Email")
     @allure.testcase("TC004")
     @allure.tag("Smoke")
+    @pytest.mark.regression
     def test_searchCustomer(self, setup):
         try:
             self.logger.info("****** Verifying add customer test ******")
