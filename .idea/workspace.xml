@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26ba4c33-c472-4df9-a645-ca6749d1656e" name="Changes" comment="Added new testcases.">
-      <change afterPath="$PROJECT_DIR$/allure-results/06a7f7d7-8be9-4e8a-acdb-386447576d05-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/19374832-740f-4ec9-bfbc-6206b08270b7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1becc727-32ba-4934-bd74-c2ffc71dd19e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1e787306-dcb5-415f-a764-90366d37eb35-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/25169409-3e1a-416d-8449-1dab13ad69e7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/2b2c742a-d168-4263-af15-219ee4635eb7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3a665e87-9ff0-435f-8720-764f4d3032ae-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3be9ed65-27a5-4f91-a701-3addb61de707-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3f9922ff-937f-4067-a1a6-201e58d05b08-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4de6c5e0-cf34-424a-b6c9-ad6a327d40ec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5043fc2b-ddd2-4759-9569-779d49c707d7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/79af6879-d4ea-4e0f-8c61-2bbebdaf67c5-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7df8cec2-fcf8-44ad-8a3b-f0b881f52ce2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/804c05c1-23ff-4d7d-bd8a-f58789a3c045-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8590987a-3997-4084-89df-cfbd0a08d376-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8d700124-7705-4602-852d-8676674a05d4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9bf1ba1e-ee87-4c9d-a2f4-f14bef3c089e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a6474bcc-e231-4e90-8dc2-4654454fbedf-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ad720a9f-4802-4034-8e7a-dbf13b421557-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b3e6caa6-0575-4646-9387-067f854cc359-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c61dd18a-2fc3-47a5-a2c4-9480175e5b0d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cf395295-a63e-4099-b877-7dfe8ab298ab-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d4e5f40e-af8a-4028-8137-c30dafcf5d55-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d6375bf3-62b4-47ec-9351-0650e641914d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e2df0084-57fd-4cba-8ada-d86e9c3c27db-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/eb47751c-987d-4950-94c9-8d5db93de19e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/efc578ce-1bed-48b5-91cf-09464f58bbe8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCases/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_addCustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_addCustomer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_login_ddt.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login_ddt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_searchCustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_searchCustomer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716167019101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new testcases.">
+      <option name="closed" value="true" />
+      <created>1716184829782</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716184829782</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added new testcases.">
+      <option name="closed" value="true" />
+      <created>1716250735288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716250735288</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
